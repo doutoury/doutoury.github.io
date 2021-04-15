@@ -1,0 +1,39 @@
+{
+    "blog_keys":{
+        "PoliciesAndValueFunctions":{
+            "title":"1. Week_3-1_Policies and Value functions",
+            "cover_img_url":"https://drive.google.com/uc?id=14I-2nWKQ6NwHRIkpd_S8xipYSEEMIiHJ",
+            "subtitle":"Policies and Value functions",
+            "nb_url":"https://raw.githubusercontent.com/doutoury/Reinforcement_Learning_Specialization/main/1.%20Fundamentals%20of%20Reinforcement%20Learning/Week_3%20Value%20functions%20_%20Bellman%20Equations/1.%20Week_3-1_Policies%20and%20Value%20functions.ipynb",
+            "tags":["RL", "theory"]
+        },
+        "BellmanEquations":{
+            "title":"1. Week_3-2_Bellman Equations",
+            "cover_img_url":"https://drive.google.com/uc?id=14I-2nWKQ6NwHRIkpd_S8xipYSEEMIiHJ",
+            "subtitle":"Bellman Equations",
+            "nb_url":"https://raw.githubusercontent.com/doutoury/Reinforcement_Learning_Specialization/main/1.%20Fundamentals%20of%20Reinforcement%20Learning/Week_3%20Value%20functions%20_%20Bellman%20Equations/1.%20Week_3-2_Bellman%20Equations.ipynb",
+            "tags":["RL", "theory"]
+        },
+        "Optimality":{
+            "title":"1. Week_3-3_Optimality",
+            "cover_img_url":"https://drive.google.com/uc?id=14I-2nWKQ6NwHRIkpd_S8xipYSEEMIiHJ",
+            "subtitle":"Optimality",
+            "nb_url":"https://raw.githubusercontent.com/doutoury/Reinforcement_Learning_Specialization/main/1.%20Fundamentals%20of%20Reinforcement%20Learning/Week_3%20Value%20functions%20_%20Bellman%20Equations/1.%20Week_3-3_Optimality.ipynb",
+            "tags":["RL", "theory"]
+        },
+        "PolicyEvaluation":{
+            "title":"1. Week_4-1_Policy Evaluation (Prediction)",
+            "cover_img_url":"https://drive.google.com/uc?id=14I-2nWKQ6NwHRIkpd_S8xipYSEEMIiHJ",
+            "subtitle":"Policy Evaluation (Prediction)",
+            "nb_url":"https://raw.githubusercontent.com/doutoury/Reinforcement_Learning_Specialization/main/1.%20Fundamentals%20of%20Reinforcement%20Learning/Week_4%20Dynamic%20Programming/1.%20Week_4-1_Policy%20Evaluation%20(Prediction).ipynb",
+            "tags":["RL", "theory"]
+        },
+        "Week4CourseWrapUp":{
+            "title":"1. Week_4-4_Course Wrap-up",
+            "cover_img_url":"https://drive.google.com/uc?id=14I-2nWKQ6NwHRIkpd_S8xipYSEEMIiHJ",
+            "subtitle":"Week 4 Course Wrap-up",
+            "nb_url":"https://raw.githubusercontent.com/doutoury/Reinforcement_Learning_Specialization/main/1.%20Fundamentals%20of%20Reinforcement%20Learning/Week_4%20Dynamic%20Programming/1.%20Week_4-4_Course%20Wrap-up.ipynb",
+            "tags":["RL", "theory"]
+        }
+    }
+}
